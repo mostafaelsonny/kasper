@@ -1416,7 +1416,6 @@ nav .toggle-menu {
 
 @media (max-width:500px) {
     .skills {
-        width: 85%;
         margin: 10px auto;
     }
 }
